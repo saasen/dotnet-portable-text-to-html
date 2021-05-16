@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0ee8ad75_002Da2ef_002D4bdb_002D8763_002D7999807f8313/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ShouldThrowOnNullHttpClient" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::145B6762-AFCA-412D-9A1F-5B8AAAD4D8B6::net5.0::Tests.SanityClientTests.ShouldThrowOnNullHttpClient&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=71231ce8_002D7803_002D44ad_002D886f_002D9de7c2e781b0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ShouldThrowOnNullHttpClient #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::145B6762-AFCA-412D-9A1F-5B8AAAD4D8B6::.NETCoreApp,Version=v3.0::Tests.SanityClientTests.ShouldThrowOnNullHttpClient&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
