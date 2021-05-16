@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sanity", "src\Sanity.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "test\Tests\Tests.csproj", "{145B6762-AFCA-412D-9A1F-5B8AAAD4D8B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Benchmark", "benchmark\Benchmark.csproj", "{2244DCD8-B846-47D8-BAEC-41B6F3B8153C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Benchmark", "benchmark\Benchmark.csproj", "{2244DCD8-B846-47D8-BAEC-41B6F3B8153C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SanityClient", "SanityClient\SanityClient.csproj", "{4C71DA83-8F76-477B-BAFC-69EED69DDF0C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{2244DCD8-B846-47D8-BAEC-41B6F3B8153C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2244DCD8-B846-47D8-BAEC-41B6F3B8153C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2244DCD8-B846-47D8-BAEC-41B6F3B8153C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C71DA83-8F76-477B-BAFC-69EED69DDF0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C71DA83-8F76-477B-BAFC-69EED69DDF0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C71DA83-8F76-477B-BAFC-69EED69DDF0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C71DA83-8F76-477B-BAFC-69EED69DDF0C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

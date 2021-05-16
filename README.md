@@ -1,3 +1,12 @@
+# Sanity C# Client
+
+* Block Content tools
+* HTTP API wrapper
+
+# Benchmarks
+
+Here's some benchmark results when trying to parse a huge PortableText. Using raw JSON API is almost double as fast, but it's so fast that it doesn't really matter. One would usually output cache the results of HTML anyways.
+
 Benchmark results when using raw JSON API:
 
 |   Method |           Job |       Runtime |     Mean |     Error |    StdDev | Ratio |
