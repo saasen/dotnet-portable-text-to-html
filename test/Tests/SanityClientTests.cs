@@ -8,7 +8,7 @@ namespace Tests
 {
     public class SanityClientTests
     {
-        public void ShouldThrowOnNullHttpClient
+        public void ShouldThrowOnNullHttpClient()
         {
             var client = new SanityClient.SanityClient();
 
